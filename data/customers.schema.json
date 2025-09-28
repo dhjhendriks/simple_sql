@@ -1,0 +1,1 @@
+{"id": "int", "timestamp": "int", "user": "text", "active": "bool", "name": "text", "email": "text"}
